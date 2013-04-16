@@ -4,4 +4,4 @@ EmotionDetector
 Presentation of Emotion Detector application.
 
 Movie from ED:
-https://www.youtube.com/watch?feature=player_embedded&v=r-cbcDN_ekk
+https://www.youtube.com/watch?v=32Iyv4tUUnU
